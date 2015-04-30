@@ -1,12 +1,6 @@
 {
   "name": "cast-player-bar-polymer",
-  "version": "0.0.0",
-  "homepage": "https://github.com/pengying/cast-player-bar-polymer",
-  "authors": [
-    "Peng Ying <pying@google.com>"
-  ],
   "description": "cast player bar polymer",
-  "main": "cast-player-bar-polymer.html",
   "keywords": [
     "cast",
     "player",

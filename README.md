@@ -71,7 +71,7 @@ Handle the core signal events:
             //Your volume code
             break;
           case 'fullscreen':
-            var elem = //[Your element to fullscreen];
+            var elem = //[Your element to fullscreend];
             if (elem.requestFullscreen) {
               elem.requestFullscreen();
             } else if (elem.msRequestFullscreen) {
