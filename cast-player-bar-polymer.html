@@ -235,8 +235,8 @@ It includes the chromecast button for casting.
       {{ localTimeRemaining }}
     </label>
 
-    <volume-controller id="volume_controller"
-                       castManager="{{ castManager }}"></volume-controller>
+    <cast-volume-controller id="volume_controller"
+                       castManager="{{ castManager }}"></cast-volume-controller>
 
     <div id="button_flex">
       <cast-button id="button_cast" appId="{{ appId }}" castManager="{{ castManager }}"
