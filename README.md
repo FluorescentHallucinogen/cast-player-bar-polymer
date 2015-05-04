@@ -37,7 +37,7 @@ In your html include the element
 
 Add the element to your HTML and pass in the `appId`.
 
-    <cast-player-bar appId="ABCDEF"></cast-player-bar>
+    <cast-player-bar appId="{{ appId }}"></cast-player-bar>
 
 In the polymer ready event pass in the castManager object.
 
