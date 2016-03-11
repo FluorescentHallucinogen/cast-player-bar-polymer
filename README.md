@@ -52,3 +52,6 @@ Add the element to your HTML and bind the required properties.
                          connection-status="[[connectionStatus]]"
                          queue-enabled="true"
                          is-fullscreen="[[isFullscreen]]"></cast-player-bar>
+                         
+## Terms
+Your use of this sample is subject to, and by using or downloading the sample files you agree to comply with, the [Google APIs Terms of Service](https://developers.google.com/terms/) and the [Google Cast SDK Additional Developer Terms of Service](https://developers.google.com/cast/docs/terms/).
